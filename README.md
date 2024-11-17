@@ -9,6 +9,7 @@ public libraries
 1. [swift-grammar](https://github.com/tayloraswift/swift-grammar)
 1. [swift-hash](https://github.com/tayloraswift/swift-hash)
 1. [swift-ip](https://github.com/tayloraswift/swift-ip)
+1. [swift-jpeg](https://github.com/tayloraswift/swift-jpeg)
 1. [swift-json](https://github.com/tayloraswift/swift-json)
 1. [swift-noise](https://github.com/tayloraswift/swift-noise)
 1. [swift-png](https://github.com/tayloraswift/swift-png)
@@ -28,12 +29,6 @@ other projects
 
 1. [swift-mongodb](https://github.com/tayloraswift/swift-mongodb)
 1. [swift-unidoc](https://github.com/tayloraswift/swift-unidoc)
-
-</td>
-<td>
-to revive someday
-
-1. [jpeg](https://github.com/tayloraswift/jpeg)
 
 </td>
 </tr>
