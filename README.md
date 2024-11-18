@@ -5,6 +5,7 @@
 <td>
 public libraries
 
+1. [swift-bson](https://github.com/tayloraswift/swift-bson)
 1. [swift-dom](https://github.com/tayloraswift/swift-dom)
 1. [swift-grammar](https://github.com/tayloraswift/swift-grammar)
 1. [swift-hash](https://github.com/tayloraswift/swift-hash)
