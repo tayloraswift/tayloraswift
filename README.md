@@ -24,8 +24,10 @@ public workflows
 1. [swift-install-action](https://github.com/tayloraswift/swift-install-action)
 1. [swift-unidoc-action](https://github.com/tayloraswift/swift-unidoc-action)
 
-</td>
-<td>
+environments
+
+1. [swift-cross-aarch64](https://github.com/tayloraswift/swift-cross-aarch64)
+
 other projects
 
 1. [swift-mongodb](https://github.com/tayloraswift/swift-mongodb)
