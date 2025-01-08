@@ -14,6 +14,7 @@ public libraries
 1. [swift-json](https://github.com/tayloraswift/swift-json)
 1. [swift-noise](https://github.com/tayloraswift/swift-noise)
 1. [swift-png](https://github.com/tayloraswift/swift-png)
+1. [swift-ucf](https://github.com/tayloraswift/swift-ucf)
 1. [swift-unixtime](https://github.com/tayloraswift/swift-unixtime)
 
 </td>
