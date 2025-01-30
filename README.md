@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-public libraries
+Libraries
 
 1. [swift-bson](https://github.com/tayloraswift/swift-bson)
 1. [swift-dom](https://github.com/tayloraswift/swift-dom)
@@ -16,23 +16,25 @@ public libraries
 1. [swift-png](https://github.com/tayloraswift/swift-png)
 1. [swift-ucf](https://github.com/tayloraswift/swift-ucf)
 1. [swift-unixtime](https://github.com/tayloraswift/swift-unixtime)
+1. [swift-mongodb](https://github.com/tayloraswift/swift-mongodb) (unstable)
 
 </td>
 <td>
-public workflows
+
+Tools
+
+1. [archer](https://github.com/tayloraswift/archer)
+1. [unidoc](https://github.com/tayloraswift/swift-unidoc)
+
+Environments
+
+1. [swift-cross-aarch64](https://github.com/tayloraswift/swift-cross-aarch64)
+
+GitHub Actions
 
 1. [swift-device-action](https://github.com/tayloraswift/swift-device-action)
 1. [swift-install-action](https://github.com/tayloraswift/swift-install-action)
 1. [swift-unidoc-action](https://github.com/tayloraswift/swift-unidoc-action)
-
-environments
-
-1. [swift-cross-aarch64](https://github.com/tayloraswift/swift-cross-aarch64)
-
-other projects
-
-1. [swift-mongodb](https://github.com/tayloraswift/swift-mongodb)
-1. [swift-unidoc](https://github.com/tayloraswift/swift-unidoc)
 
 </td>
 </tr>
