@@ -5,6 +5,9 @@
 <td>
 Libraries
 
+1. [package-distributions](https://github.com/ordo-one/package-distributions)
+1. [d](https://github.com/tayloraswift/d)
+
 1. [swift-bson](https://github.com/tayloraswift/swift-bson)
 1. [swift-dom](https://github.com/tayloraswift/swift-dom)
 1. [swift-grammar](https://github.com/tayloraswift/swift-grammar)
