@@ -25,6 +25,7 @@ Libraries
 
 Tools
 
+1. [bijection](https://github.com/ordo-one/bijection) (macro)
 1. [archer](https://github.com/tayloraswift/archer)
 1. [unidoc](https://github.com/tayloraswift/swift-unidoc)
 
